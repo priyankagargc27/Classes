@@ -1,0 +1,11 @@
+C:\Users\Priya\workspace\csharp\exercise\classes\obj\Debug\netcoreapp2.1\classes.csprojAssemblyReference.cache
+C:\Users\Priya\workspace\csharp\exercise\classes\obj\Debug\netcoreapp2.1\classes.csproj.CoreCompileInputs.cache
+C:\Users\Priya\workspace\csharp\exercise\classes\obj\Debug\netcoreapp2.1\classes.AssemblyInfoInputs.cache
+C:\Users\Priya\workspace\csharp\exercise\classes\obj\Debug\netcoreapp2.1\classes.AssemblyInfo.cs
+C:\Users\Priya\workspace\csharp\exercise\classes\bin\Debug\netcoreapp2.1\classes.deps.json
+C:\Users\Priya\workspace\csharp\exercise\classes\bin\Debug\netcoreapp2.1\classes.runtimeconfig.json
+C:\Users\Priya\workspace\csharp\exercise\classes\bin\Debug\netcoreapp2.1\classes.runtimeconfig.dev.json
+C:\Users\Priya\workspace\csharp\exercise\classes\bin\Debug\netcoreapp2.1\classes.dll
+C:\Users\Priya\workspace\csharp\exercise\classes\bin\Debug\netcoreapp2.1\classes.pdb
+C:\Users\Priya\workspace\csharp\exercise\classes\obj\Debug\netcoreapp2.1\classes.dll
+C:\Users\Priya\workspace\csharp\exercise\classes\obj\Debug\netcoreapp2.1\classes.pdb
